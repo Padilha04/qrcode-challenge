@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Padilha04/qrcode-challenge)
+- Live Site URL: [GitHub Page](https://padilha04.github.io/qrcode-challenge/)
 
 ---
 
@@ -59,9 +59,9 @@ This it what I'm proud of learning in this challenge:
 ## 😸 Author
 
 ### Amanda Padilha
-- Portfolio - [Amanda Padilha](https://www.your-site.com)
-- Github - [Padilha04](https://www.your-site.com)
-- LinkedIn - [Amanda Padilha](https://www.your-site.com)
+- Portfolio - [Amanda Padilha](https://amandapadi.notion.site/Amanda-Padilha-Portf-lio-f5cc302c77014bea8a538ab908342784)
+- Github - [Padilha04](https://github.com/Padilha04)
+- LinkedIn - [Amanda Padilha](www.linkedin.com/in/amanda-padilha)
 - Frontend Mentor - [@Padilha04](https://www.frontendmentor.io/profile/yourusername)
 
 
